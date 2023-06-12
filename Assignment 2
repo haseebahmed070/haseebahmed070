@@ -1,0 +1,73 @@
+-Assignment 2
+
+<html>
+
+<head>
+
+    <title>Haseeb King Travel &tourism</title>
+
+</head>
+
+<body>
+
+        
+
+    <h1 style="text-align: center;"><u>Haseeb King travel & Tourism</u></h1>
+
+<br><br>
+
+<img src="https://i.dawn.com/primary/2015/12/567d216a2af1c.jpg" alt="Tour in Pakistan" height="300px" width="410px">
+
+<img src="https://htv.com.pk/wp-content/uploads/Hidden-Tourist-Destinations-In-Pakistan.jpg" alt="Tour in Pakistan" height="300px" width="410px">
+
+<img src="https://img.traveltriangle.com/blog/wp-content/uploads/2021/11/shutterstock_1487009060.jpg" alt="Tour in Pakistan" height="300px" width="410px"> 
+
+<br><br>
+
+<p><b><h3>You can avail best low-price tourism packages all over PAKISTAN on this website</h3></b></p>
+
+<ol>
+
+    <li>KPK</li>
+
+    <ul>
+
+        <li>Mansehra District</li>
+
+        <ul>
+
+            <li><a href="KPK/mansehra/Naran.html">Naran</a></li>
+
+            <li><a href="KPK/mansehra/Shogran.html">Shogran</a></li>
+
+        </ul>
+
+        <li>Swat District</li>
+
+        <ul>
+
+            <li><a href="KPK/swat/Kalaam.html">Kalaam</a></li>
+
+            <li><a href="KPK/swat/Mingora.html">Migohra</a></li>
+
+        </ul>
+
+    </ul>
+
+    <li>Balochistan</li>
+
+    <ul>
+
+        <li><a href="Baloshistan/Quetta.html">Quetta</a></li>
+
+        <li><a href="Baloshistan/Khuzdar.html">Khuzdar</a></li>
+
+    </ul>
+
+</ol>
+
+</body>
+
+</html>
+
+        
